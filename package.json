@@ -1,5 +1,5 @@
 {
-  "name": "redux-react-native-session",
+  "name": "@ryan-pratt/redux-react-native-session",
   "version": "1.0.4",
   "description": "Keep your session sync with the storage and redux",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bernabe9/redux-react-native-session"
+    "url": "git+https://github.com/ryan-pratt/redux-react-native-session"
   },
   "keywords": [
     "redux",
@@ -26,9 +26,9 @@
   "author": "Bernabe Gonzalez <gobernabe@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bernabe9/redux-react-native-session/issues"
+    "url": "https://github.com/ryan-pratt/redux-react-native-session/issues"
   },
-  "homepage": "https://github.com/bernabe9/redux-react-native-session#readme",
+  "homepage": "https://github.com/ryan-pratt/redux-react-native-session#readme",
   "devDependencies": {
     "babel-cli": "6.23.0",
     "babel-core": "6.23.1",
