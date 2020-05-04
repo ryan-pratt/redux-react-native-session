@@ -1,7 +1,7 @@
 # Redux React Native Session
 
-[![NPM version](https://img.shields.io/npm/v/redux-react-native-session.svg?style=flat)](https://npmjs.org/package/redux-react-native-session)
-[![Dependency Status](https://img.shields.io/david/bernabe9/redux-react-native-session.svg)](https://david-dm.org/bernabe9/redux-react-native-session)
+[![NPM version](https://img.shields.io/npm/v/@ryan-pratt/redux-react-native-session.svg?style=flat)](https://npmjs.org/package/@ryan-pratt/redux-react-native-session)
+[![Dependency Status](https://img.shields.io/david/ryan-pratt/redux-react-native-session.svg)](https://david-dm.org/ryan-pratt/redux-react-native-session)
 
 This fork is to re-release version 1.0.4 as that release in NPM is not consistent with the parent repo's code.
 
